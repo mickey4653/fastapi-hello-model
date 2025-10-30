@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-app = FastAPI(title="AI Foundations API", version="1.0")
+app = FastAPI(title="Hello Model API", version="1.0")
 
 # Define a data model for POST requests
 class Message(BaseModel):

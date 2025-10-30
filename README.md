@@ -1,4 +1,4 @@
-# AI Foundations – Week 1 Starter API
+# Hello Model – Week 1 fastapi-hello-model
 
 Simple FastAPI project to get comfortable with Python backend basics.
 
